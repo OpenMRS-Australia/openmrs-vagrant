@@ -136,6 +136,6 @@ The following will be installed and setup for you:
 
 2. Done!
 
-**Additional Resources**
+**To start coding**
 ------------------------
 - [https://github.com/OpenMRS-Australia/openmrs-cpm](https://github.com/OpenMRS-Australia/openmrs-cpm)
