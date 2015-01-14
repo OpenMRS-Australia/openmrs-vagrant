@@ -10,7 +10,7 @@ Vagrant::Config.run do |config|
   config.vm.customize [
        "modifyvm", :id,
        "--name", "openmrs-dev",
-       "--memory", "768"]
+       "--memory", "1024"]
   config.vm.host_name = "openmrs-dev"
 
   config.vm.box = "precise32"
